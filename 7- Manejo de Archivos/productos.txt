@@ -1,0 +1,2 @@
+nombre,precio,cantidad
+Lapicera,120.5,30
